@@ -1,0 +1,35 @@
+BEGIN
+INSERT g5 string false
+INSERT rJZlym number false
+INSERT rauD number true
+ASSIGN rauD rauD
+ASSIGN g5 g5
+BEGIN
+INSERT siYzC string false
+BEGIN
+PRINT
+LOOKUP rJZlym
+LOOKUP rauD
+INSERT gne4tx number false
+INSERT jg8 (number,number)->number true
+END
+BEGIN
+LOOKUP rauD
+BEGIN
+INSERT tz (number)->string true
+PRINT
+INSERT pCYVl ()->string true
+PRINT
+PRINT
+INSERT m2LwIJ number false
+PRINT
+PRINT
+LOOKUP rJZlym
+BEGIN
+LOOKUP jg8
+ASSIGN m2LwIJ rauD
+ASSIGN rauD rauD
+PRINT
+BEGIN
+LOOKUP rauD
+ASSIGN gne4tx pCYVl()

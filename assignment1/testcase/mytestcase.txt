@@ -1,0 +1,10 @@
+INSERT srray number
+INSERT t2 string
+BEGIN
+INSERT t2 number
+INSERT iQnykg string
+ASSIGN iQnykg t2
+ASSIGN iQnykg t2
+PRINT
+END
+PRINT
